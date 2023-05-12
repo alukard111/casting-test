@@ -209,7 +209,7 @@ body {
     }
 
     .become-a-superstar:after {
-        background-image: url(./casting-test/build/static/media/Group%20303@2x.b687144f1a34d6e123f3.png);
+        background-image: url(./../media/Group%20303@2x.b687144f1a34d6e123f3.png);
         background-repeat: no-repeat;
         background-size: contain;
         content: "";
@@ -968,7 +968,7 @@ body {
     }
 
     .navigation-result__content-background {
-        background-image: url(./casting-test/build/static/media/background1.a4f9eeadd123f6f50b0c.png);
+        background-image: url(./../media/background1.a4f9eeadd123f6f50b0c.png);
         background-position: top;
         background-repeat: no-repeat;
         height: 100%;
