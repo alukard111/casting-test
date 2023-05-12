@@ -42,8 +42,7 @@ export const NavigationBlock = (props) => {
 		setSelect({...select, selectedTarget: selectedScreen})
 	}
 		
-		
-	
+
 	useEffect(() => {
 		// returnSelectedLink()
 	}, [])
@@ -150,12 +149,12 @@ export const NavigationBlock = (props) => {
 							</div>
 							<div className="navigation-result__content-description">
 								<p className="navigation-result__content-description-text">The people that brought to “The Circle” are now casting 
-																																						for a brand new game show that is being produced to air on a major streaming network.
-																																						The game show will take place on a tropical island and the winner will get a big
-																																						cash prize.<br/><br/> looking for contestants for a brand-new reality gameshow for a major
-																																						streaming network. The chosen contestants will be transported to a beautiful
-																																						tropical location to live together and face a series of challenges and dilemmas
-																																						as they compete for a huge cash prize.
+									for a brand new game show that is being produced to air on a major streaming network.
+									The game show will take place on a tropical island and the winner will get a big
+									cash prize.<br/><br/> looking for contestants for a brand-new reality gameshow for a major
+									streaming network. The chosen contestants will be transported to a beautiful
+									tropical location to live together and face a series of challenges and dilemmas
+									as they compete for a huge cash prize.
 								</p>
 							</div>
 							<div className="navigation-result__content-options">
@@ -202,7 +201,6 @@ export const NavigationBlock = (props) => {
 									<div className="about-talent__info-desc">
 										<span className="about-talent__info-desc-title">WORKS WITH:</span>
 										<p className="about-talent__info-desc-text">
-											
 											Magicians, Fashion & Runway Models, Martial Artists & Stunt Actors,
 											Sports Personalities, Voiceover Artists, Commercial Actors, Film & 
 											TV Actors, Print Models, Comedians, Broadcast Journalists & Newscasters, 
