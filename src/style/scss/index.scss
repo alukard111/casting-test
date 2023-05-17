@@ -1078,7 +1078,9 @@ body {
       height: 100%;
       background-repeat: no-repeat;
       height: 170px;
-      
+      &-second {
+        background-image: url('../../image/PNG/castingCalls/background0.png');
+      }
     }
     &__content-background-block {
       height: 100%;

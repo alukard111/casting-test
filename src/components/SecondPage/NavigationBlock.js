@@ -140,7 +140,7 @@ export const NavigationBlock = (props) => {
 					</div>
 			
 					{/* ТАКИХ НАДО ДВА 2222222222222222222222222222222222222222 ==================== */}
-					<div className="navigation-result__content-background"></div>
+					<div className="navigation-result__content-background navigation-result__content-background-second"></div>
 					<div className="navigation-result__content-background-block">
 						{/* ПЛАВАЮЩИЙ В ВОЗДУХЕ ПОПАП */}
 						<div className="navigation-result__content-popup">
